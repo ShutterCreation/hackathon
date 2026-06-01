@@ -3,7 +3,7 @@
 An intelligent, state-based mock interview simulator that acts as a real-world technical interviewer and a professional English communication coach.
 
 ### 🎥 Live Demo Video
-[Insert your YouTube/Drive Video Link Here]
+https://drive.google.com/file/d/1-GPsLE8KzrficSqqcXqL9nWpWU8tv0dP/view?usp=drive_link
 
 ### ✨ The "X-Factor" Features
 * **🎙️ Real-Time Audio Transcription & Fluency Coach:** Uses Whisper API to listen to answers and gently corrects English phrasing/grammar.
@@ -18,7 +18,7 @@ An intelligent, state-based mock interview simulator that acts as a real-world t
 * **Resume Parsing:** PyPDF2
 
 ### 🛠️ How to run locally
-1. Clone the repo: `git clone [your-repo-link]`
+1. Clone the repo: `git clone [https://github.com/ShutterCreation/hackathon]`
 2. Install dependencies: `pip install streamlit openai PyPDF2 python-dotenv`
 3. Create a `.env` file and add: `GROQ_API_KEY=your_api_key_here`
 4. Run the app: `python -m streamlit run app.py`
