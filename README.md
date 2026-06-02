@@ -1,4 +1,4 @@
-# 🚀 Hack2Hire: AI-Powered Mock Interview Platform
+# AI-Powered Mock Interview Platform
 
 An intelligent, state-based mock interview simulator that acts as a real-world technical interviewer and a professional English communication coach.
 
